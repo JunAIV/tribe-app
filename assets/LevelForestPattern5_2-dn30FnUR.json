@@ -163,18 +163,6 @@
                  "y":576
                 }, 
                 {
-                 "gid":42,
-                 "height":64,
-                 "id":20,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":64,
-                 "x":192,
-                 "y":256
-                }, 
-                {
                  "gid":44,
                  "height":64,
                  "id":21,
